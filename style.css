@@ -299,7 +299,7 @@ width:100%;
 width:98%;
 list-style:none;
 padding:0px;
-margin:0px 1%;
+margin:0px 5%;
 display:block;
 }
 .main-nav ul li{
@@ -2182,4 +2182,22 @@ max-width:80%;
 .gallery_switch a img{
 max-width:100%;
 }
+}
+
+
+.card-heading { 
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+.card-subheading {
+    color: whitesmoke;
+    font-size: 13px !important;
+}
+
+.full-width-card  {
+    width: auto !important;
+}
+.w-100 { 
+    width: 100% !important;
 }
